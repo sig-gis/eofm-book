@@ -1,3 +1,6 @@
+checkpoints
 data
+outputs
 pangaea-bench
 pretrained_models
+wandb
